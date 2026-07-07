@@ -36,8 +36,12 @@ Run it with `python challenge_test.py`, press `q` to quit or `r` to retry.
 
 ### Example output
 
-- [`mobile.mov`](mobile.mov) — recorded from the Flutter app's on-device liveness flow (the ported version of this logic)
-- [`webcam.mov`](webcam.mov) — recorded from this repo's `challenge_test.py` running against a laptop webcam
+
+https://github.com/user-attachments/assets/a6684220-9a61-4357-aff3-abb19e7ad1bb
+
+
+
+
 
 ### What's here
 
