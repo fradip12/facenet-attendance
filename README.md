@@ -36,10 +36,10 @@ Run it with `python challenge_test.py`, press `q` to quit or `r` to retry.
 
 ### Example output
 
-
 https://github.com/user-attachments/assets/a6684220-9a61-4357-aff3-abb19e7ad1bb
 
 
+https://github.com/user-attachments/assets/833bbb25-414d-46ca-a42b-9e9c3ebb726f
 
 
 
