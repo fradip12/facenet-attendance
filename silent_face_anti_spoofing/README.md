@@ -34,6 +34,11 @@ replay):
 
 Run it with `python challenge_test.py`, press `q` to quit or `r` to retry.
 
+### Example output
+
+- [`../mobile.mov`](../mobile.mov) — recorded from the Flutter app's on-device liveness flow (the ported version of this logic)
+- [`../webcam.mov`](../webcam.mov) — recorded from this repo's `challenge_test.py` running against a laptop webcam
+
 ### What's here
 
 | Path | Purpose |
@@ -106,6 +111,11 @@ atau rekaman video):
 
 Jalankan dengan `python challenge_test.py`, tekan `q` untuk keluar atau `r`
 untuk mencoba ulang.
+
+### Contoh hasil
+
+- [`../mobile.mov`](../mobile.mov) — rekaman dari alur liveness aplikasi Flutter di perangkat (versi hasil porting logika ini)
+- [`../webcam.mov`](../webcam.mov) — rekaman dari `challenge_test.py` di repo ini, berjalan dengan webcam laptop
 
 ### Isi folder ini
 
